@@ -1,5 +1,5 @@
 # CRACKSHA256
-Script that uses wordlist to decode given hash. Start script, input hash and wordlist, then click enter.<br/>
+Script that uses wordlist to decode given hash. Start the script, input hash and wordlist, then click enter.<br/>
 <br/>
 <img src="CRACKSHA256.png">
 
