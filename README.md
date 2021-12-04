@@ -13,7 +13,7 @@ python3 CRACKSHA256
 4. Correct word will be displayed if it is included in wordlist
 
 # Legal
-Developer assume no liability and are not responsible for any misuse or damage caused by CRACKSHA256. Only use for educational purposes!
+Developer assume no liability and is not responsible for any misuse or damage caused by CRACKSHA256. Only use for educational purposes!
 
 # Author
 Filip Rokita<br/>
