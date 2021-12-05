@@ -1,4 +1,4 @@
-#CRACKSHA256a
+#CRACKSHA256
 #Filip Rokita
 #www.filiprokita.com
 
