@@ -1,4 +1,4 @@
-# CRACKSHA256
+# CRACKSHA256aa
 Script that uses wordlist to decode given hash. Start the script, input hash and wordlist, then click enter.<br/>
 <br/>
 <img src="CRACKSHA256.png">
