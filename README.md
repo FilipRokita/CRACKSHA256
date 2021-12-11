@@ -4,10 +4,7 @@ Script that uses wordlist to decode given hash. Start the script, input hash and
 <img src="CRACKSHA256.png">
 
 # Usage
-1. Run the script with:
-```
-python3 CRACKSHA256
-```
+1. Run the script
 2. Input SHA256 hash
 3. Input wordlist
 4. Correct word will be displayed if it is included in wordlist
